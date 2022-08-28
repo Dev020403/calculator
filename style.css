@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    margin-top: 50px;
+    padding : 50px 15px;
+    background-color: black;
+    border-radius: 30px;
+}
+#equal{
+    width: 162px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: rgb(255, 149, 0);
+}
+#clear{
+    background-color: rgb(255, 149, 0);
+}
+.btn{
+    width: 50px;
+    height: 50px;
+    margin: 2px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: rgb(47, 46, 46);
+    color: white;
+}
+.inpt{
+    width: 230px;
+    height: 40px;
+    text-align: right;
+    margin-bottom: 10px;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    border: none;
+}
